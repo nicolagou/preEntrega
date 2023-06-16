@@ -1,0 +1,24 @@
+{
+  "name": "proyectofinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolagou/proyectoFinal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolagou/proyectoFinal/issues"
+  },
+  "homepage": "https://github.com/nicolagou/proyectoFinal#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
